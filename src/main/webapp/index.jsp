@@ -19,15 +19,5 @@ person name : <%= request.getParameter("name") %><br>
 <%= new java.util.Date() %><br>
 
 <%= new java.util.Date() %>
-
-<h1>is it working?</h1>
-<h1>is it working?</h1>
-<h1>is it working?</h1>
-<h1>is it working?</h1>
-<h1>is it working?</h1>
-<h1>is it working?</h1>
-<h1>is it working?</h1>
-<h1>is it working?</h1>
-
 </body>
 </html>
